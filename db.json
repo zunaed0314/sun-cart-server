@@ -58,7 +58,7 @@
     {
       "id": "6",
       "name": "Running Sports Shoes",
-      "brand": "ActiveStep",
+      "brand": "StyleHub",
       "price": 65,
       "rating": 4.9,
       "stock": 15,
@@ -69,7 +69,7 @@
     {
       "id": "7",
       "name": "Stainless Steel Water Bottle",
-      "brand": "HydroLife",
+      "brand": "FitPulse",
       "price": 18,
       "rating": 4.6,
       "stock": 25,
@@ -80,7 +80,7 @@
     {
       "id": "8",
       "name": "Mechanical Gaming Keyboard",
-      "brand": "KeyForce",
+      "brand": "SoundMax",
       "price": 89,
       "rating": 4.8,
       "stock": 7,
@@ -91,7 +91,7 @@
     {
       "id": "9",
       "name": "Minimalist Backpack",
-      "brand": "TravelMate",
+      "brand": "UrbanCarry",
       "price": 42,
       "rating": 4.5,
       "stock": 14,
@@ -102,7 +102,7 @@
     {
       "id": "10",
       "name": "Ceramic Coffee Mug",
-      "brand": "BrewCraft",
+      "brand": "UrbanCarry",
       "price": 12,
       "rating": 4.3,
       "stock": 40,
@@ -113,7 +113,7 @@
     {
       "id": "11",
       "name": "Wireless Gaming Mouse",
-      "brand": "ClickPro",
+      "brand": "SoundMax",
       "price": 39,
       "rating": 4.7,
       "stock": 16,
@@ -124,7 +124,7 @@
     {
       "id": "12",
       "name": "Classic Denim Jacket",
-      "brand": "UrbanWear",
+      "brand": "StyleHub",
       "price": 58,
       "rating": 4.6,
       "stock": 11,
@@ -135,7 +135,7 @@
     {
       "id": "13",
       "name": "Leather Casual Sneakers",
-      "brand": "StepStyle",
+      "brand": "StyleHub",
       "price": 72,
       "rating": 4.8,
       "stock": 9,
@@ -146,7 +146,7 @@
     {
       "id": "14",
       "name": "Portable Bluetooth Speaker",
-      "brand": "BeatBox",
+      "brand": "SoundMax",
       "price": 45,
       "rating": 4.5,
       "stock": 20,
@@ -157,7 +157,7 @@
     {
       "id": "15",
       "name": "Premium Polo Shirt",
-      "brand": "ClassicFit",
+      "brand": "StyleHub",
       "price": 28,
       "rating": 4.4,
       "stock": 22,
