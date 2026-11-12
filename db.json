@@ -1,168 +1,169 @@
-
-[
-  {
-    "id": "1",
-    "name": "UV Protection Sunglasses",
-    "brand": "SunShade",
-    "price": 15,
-    "rating": 4.7,
-    "stock": 10,
-    "description": "Stylish UV protection sunglasses perfect for summer outings.",
-    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600",
-    "category": "Accessories"
-  },
-  {
-    "id": "2",
-    "name": "Classic Leather Wallet",
-    "brand": "UrbanCarry",
-    "price": 25,
-    "rating": 4.5,
-    "stock": 18,
-    "description": "Premium leather wallet with multiple card slots and a slim design.",
-    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=600",
-    "category": "Accessories"
-  },
-  {
-    "id": "3",
-    "name": "Wireless Bluetooth Headphones",
-    "brand": "SoundMax",
-    "price": 55,
-    "rating": 4.8,
-    "stock": 12,
-    "description": "Comfortable wireless headphones with immersive sound and long battery life.",
-    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
-    "category": "Electronics"
-  },
-  {
-    "id": "4",
-    "name": "Smart Fitness Watch",
-    "brand": "FitPulse",
-    "price": 79,
-    "rating": 4.6,
-    "stock": 8,
-    "description": "Track your daily activity, heart rate, steps, and sleep with this smart watch.",
-    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
-    "category": "Electronics"
-  },
-  {
-    "id": "5",
-    "name": "Casual Cotton T-Shirt",
-    "brand": "StyleHub",
-    "price": 20,
-    "rating": 4.4,
-    "stock": 30,
-    "description": "Soft and breathable cotton T-shirt suitable for everyday wear.",
-    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
-    "category": "Clothing"
-  },
-  {
-    "id": "6",
-    "name": "Running Sports Shoes",
-    "brand": "ActiveStep",
-    "price": 65,
-    "rating": 4.9,
-    "stock": 15,
-    "description": "Lightweight running shoes designed for comfort, flexibility, and performance.",
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
-    "category": "Footwear"
-  },
-  {
-    "id": "7",
-    "name": "Stainless Steel Water Bottle",
-    "brand": "HydroLife",
-    "price": 18,
-    "rating": 4.6,
-    "stock": 25,
-    "description": "Reusable insulated water bottle that keeps drinks cold or hot for hours.",
-    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600",
-    "category": "Accessories"
-  },
-  {
-    "id": "8",
-    "name": "Mechanical Gaming Keyboard",
-    "brand": "KeyForce",
-    "price": 89,
-    "rating": 4.8,
-    "stock": 7,
-    "description": "RGB mechanical keyboard with responsive switches for gaming and productivity.",
-    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600",
-    "category": "Electronics"
-  },
-  {
-    "id": "9",
-    "name": "Minimalist Backpack",
-    "brand": "TravelMate",
-    "price": 42,
-    "rating": 4.5,
-    "stock": 14,
-    "description": "Modern everyday backpack with spacious compartments and a laptop sleeve.",
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
-    "category": "Accessories"
-  },
-  {
-    "id": "10",
-    "name": "Ceramic Coffee Mug",
-    "brand": "BrewCraft",
-    "price": 12,
-    "rating": 4.3,
-    "stock": 40,
-    "description": "Elegant ceramic coffee mug perfect for your morning coffee or evening tea.",
-    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600",
-    "category": "Accessories"
-  },
-  {
-    "id": "11",
-    "name": "Wireless Gaming Mouse",
-    "brand": "ClickPro",
-    "price": 39,
-    "rating": 4.7,
-    "stock": 16,
-    "description": "Ergonomic wireless gaming mouse with adjustable DPI and responsive buttons.",
-    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=600",
-    "category": "Electronics"
-  },
-  {
-    "id": "12",
-    "name": "Classic Denim Jacket",
-    "brand": "UrbanWear",
-    "price": 58,
-    "rating": 4.6,
-    "stock": 11,
-    "description": "A timeless denim jacket with a comfortable fit for casual everyday outfits.",
-    "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=600",
-    "category": "Clothing"
-  },
-  {
-    "id": "13",
-    "name": "Leather Casual Sneakers",
-    "brand": "StepStyle",
-    "price": 72,
-    "rating": 4.8,
-    "stock": 9,
-    "description": "Versatile leather sneakers combining modern style with all-day comfort.",
-    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600",
-    "category": "Footwear"
-  },
-  {
-    "id": "14",
-    "name": "Portable Bluetooth Speaker",
-    "brand": "BeatBox",
-    "price": 45,
-    "rating": 4.5,
-    "stock": 20,
-    "description": "Compact Bluetooth speaker with clear audio, deep bass, and portable design.",
-    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
-    "category": "Electronics"
-  },
-  {
-    "id": "15",
-    "name": "Premium Polo Shirt",
-    "brand": "ClassicFit",
-    "price": 28,
-    "rating": 4.4,
-    "stock": 22,
-    "description": "Smart casual polo shirt made from breathable fabric with a comfortable fit.",
-    "image": "https://images.unsplash.com/photo-1625910513413-5fc9c8ec0b6a?w=600",
-    "category": "Clothing"
-  }
-]
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "UV Protection Sunglasses",
+      "brand": "SunShade",
+      "price": 15,
+      "rating": 4.7,
+      "stock": 10,
+      "description": "Stylish UV protection sunglasses perfect for summer outings.",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600",
+      "category": "Accessories"
+    },
+    {
+      "id": "2",
+      "name": "Classic Leather Wallet",
+      "brand": "UrbanCarry",
+      "price": 25,
+      "rating": 4.5,
+      "stock": 18,
+      "description": "Premium leather wallet with multiple card slots and a slim design.",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=600",
+      "category": "Accessories"
+    },
+    {
+      "id": "3",
+      "name": "Wireless Bluetooth Headphones",
+      "brand": "SoundMax",
+      "price": 55,
+      "rating": 4.8,
+      "stock": 12,
+      "description": "Comfortable wireless headphones with immersive sound and long battery life.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+      "category": "Electronics"
+    },
+    {
+      "id": "4",
+      "name": "Smart Fitness Watch",
+      "brand": "FitPulse",
+      "price": 79,
+      "rating": 4.6,
+      "stock": 8,
+      "description": "Track your daily activity, heart rate, steps, and sleep with this smart watch.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+      "category": "Electronics"
+    },
+    {
+      "id": "5",
+      "name": "Casual Cotton T-Shirt",
+      "brand": "StyleHub",
+      "price": 20,
+      "rating": 4.4,
+      "stock": 30,
+      "description": "Soft and breathable cotton T-shirt suitable for everyday wear.",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+      "category": "Clothing"
+    },
+    {
+      "id": "6",
+      "name": "Running Sports Shoes",
+      "brand": "ActiveStep",
+      "price": 65,
+      "rating": 4.9,
+      "stock": 15,
+      "description": "Lightweight running shoes designed for comfort, flexibility, and performance.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+      "category": "Footwear"
+    },
+    {
+      "id": "7",
+      "name": "Stainless Steel Water Bottle",
+      "brand": "HydroLife",
+      "price": 18,
+      "rating": 4.6,
+      "stock": 25,
+      "description": "Reusable insulated water bottle that keeps drinks cold or hot for hours.",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600",
+      "category": "Accessories"
+    },
+    {
+      "id": "8",
+      "name": "Mechanical Gaming Keyboard",
+      "brand": "KeyForce",
+      "price": 89,
+      "rating": 4.8,
+      "stock": 7,
+      "description": "RGB mechanical keyboard with responsive switches for gaming and productivity.",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600",
+      "category": "Electronics"
+    },
+    {
+      "id": "9",
+      "name": "Minimalist Backpack",
+      "brand": "TravelMate",
+      "price": 42,
+      "rating": 4.5,
+      "stock": 14,
+      "description": "Modern everyday backpack with spacious compartments and a laptop sleeve.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+      "category": "Accessories"
+    },
+    {
+      "id": "10",
+      "name": "Ceramic Coffee Mug",
+      "brand": "BrewCraft",
+      "price": 12,
+      "rating": 4.3,
+      "stock": 40,
+      "description": "Elegant ceramic coffee mug perfect for your morning coffee or evening tea.",
+      "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600",
+      "category": "Accessories"
+    },
+    {
+      "id": "11",
+      "name": "Wireless Gaming Mouse",
+      "brand": "ClickPro",
+      "price": 39,
+      "rating": 4.7,
+      "stock": 16,
+      "description": "Ergonomic wireless gaming mouse with adjustable DPI and responsive buttons.",
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=600",
+      "category": "Electronics"
+    },
+    {
+      "id": "12",
+      "name": "Classic Denim Jacket",
+      "brand": "UrbanWear",
+      "price": 58,
+      "rating": 4.6,
+      "stock": 11,
+      "description": "A timeless denim jacket with a comfortable fit for casual everyday outfits.",
+      "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=600",
+      "category": "Clothing"
+    },
+    {
+      "id": "13",
+      "name": "Leather Casual Sneakers",
+      "brand": "StepStyle",
+      "price": 72,
+      "rating": 4.8,
+      "stock": 9,
+      "description": "Versatile leather sneakers combining modern style with all-day comfort.",
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600",
+      "category": "Footwear"
+    },
+    {
+      "id": "14",
+      "name": "Portable Bluetooth Speaker",
+      "brand": "BeatBox",
+      "price": 45,
+      "rating": 4.5,
+      "stock": 20,
+      "description": "Compact Bluetooth speaker with clear audio, deep bass, and portable design.",
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+      "category": "Electronics"
+    },
+    {
+      "id": "15",
+      "name": "Premium Polo Shirt",
+      "brand": "ClassicFit",
+      "price": 28,
+      "rating": 4.4,
+      "stock": 22,
+      "description": "Smart casual polo shirt made from breathable fabric with a comfortable fit.",
+      "image": "https://images.unsplash.com/photo-1625910513413-5fc9c8ec0b6a?w=600",
+      "category": "Clothing"
+    }
+  ]
+}
